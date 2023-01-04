@@ -1,8 +1,7 @@
-package cs446;
+package ca.uwaterloo.cs.helloworld;
 
 /**
  * Hello world!
- *
  */
 public class App 
 {

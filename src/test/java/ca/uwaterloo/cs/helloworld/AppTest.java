@@ -1,4 +1,4 @@
-package cs446;
+package ca.uwaterloo.cs.helloworld;
 
 import static org.junit.Assert.assertTrue;
 
