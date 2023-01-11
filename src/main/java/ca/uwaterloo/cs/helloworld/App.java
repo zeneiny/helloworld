@@ -7,7 +7,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Bonjour tout le monde" );
         System.out.println( "CS 489 is awesome!" );
     }
 }
